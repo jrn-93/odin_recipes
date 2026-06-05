@@ -1,1 +1,3 @@
-# odin_recipes
+# Project Introduction
+In this project, I will create a basic recipe website using only HTML. The goal is to build a simple, structured website that consists of a main index page linking to multiple individual recipe pages. Each recipe page will include essential elements such as headings, paragraphs, lists, and images.
+By completing this project, I will demonstrate my understanding of fundamental HTML concepts, including proper document structure, semantic elements, linking between pages, and organizing content in a clear and accessible way. This project focuses on building a solid foundation in web development before introducing styling with CSS or interactivity with JavaScript.
