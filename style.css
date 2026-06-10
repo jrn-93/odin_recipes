@@ -3,6 +3,8 @@ body {
 }
 
 .headerrow {
+    background-color: green;
+    color: white;
     text-align: center;
 }
 
@@ -13,6 +15,8 @@ body {
 }
 
 .title {
+    background-color: white;
+    color: green;
     font-size: 24px;
     margin-top: 16px;
 }
@@ -22,6 +26,8 @@ body {
 }
 
 .mainsection {
+    background-image: linear-gradient(to right, green, white);
+    color: grey;
     padding: 16px;
 }
 
