@@ -26,7 +26,7 @@ body {
 }
 
 .mainsection {
-    background-image: linear-gradient(to right, green, white);
+    background-image: linear-gradient(to right, white, green);
     color: grey;
     padding: 16px;
 }
